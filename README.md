@@ -1,2 +1,2 @@
-# git-use
-git 的基本使用方法
+# use-git
+如何使用Git
